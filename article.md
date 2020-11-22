@@ -1,11 +1,3 @@
----
-title: Let's take a quick look at Project Loom. 
-published: false
-description: This article gives a quick look into Project Loom - one of the current buzzwords in the Java world.
-tags: java, concurrency, loom
-//cover_image: https://direct_url_to_image.jpg
----
-
 This article gives a quick look into Project Loom - one of the current buzzwords in the Java world.
 
 ### [What is Project Loom about?](#project-loom)
